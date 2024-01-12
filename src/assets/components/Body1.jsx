@@ -3,7 +3,7 @@ export function Body1() {
     <div
       className="bg-cover"
       style={{
-        backgroundImage: 'url("./public/images/starbucks.jpg")',
+        backgroundImage: 'url("./images/starbucks.jpg")',
         height: "50rem",
       }}
     >
