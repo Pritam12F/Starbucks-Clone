@@ -13,7 +13,10 @@ export function Body1() {
           <h1 className="text-4xl font-semibold mb-1.5">IS A TAP AWAY</h1>
         </div>
         <p className="text-xl mb-10">Join now to start earning Rewards.</p>
-        <a className="bg-starbucks-green rounded-full pt-1.5 pb-1.5 pl-4 pr-4 font-bold text-white">
+        <a
+          className="bg-starbucks-green rounded-full pt-1.5 pb-1.5 pl-4 pr-4 font-bold text-white"
+          href="#"
+        >
           Join now
         </a>
         <p className="text-xl mt-4">
